@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const slide = slidesData[slideIndex];
     const id = getIdFromUrl();
-    const imagePath = `/images/${id}/${slide.index + 1}.png`;
+    const imagePath = `../images/${id}/${slide.index + 1}.png`;
 
     slideImageContainer.innerHTML =
       `<img src="${imagePath}" alt="${escapeHTML(slide.concept)}"
@@ -157,8 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const tryNext = () => {
       i++;
       if (i < exts.length) {
-        a.src = `/audio/${baseName}${exts[i]}`;
-        a.load();
+      a.src = `../audio/${baseName}${exts[i]}`;        a.load();
       } else {
         console.error(`No local audio found for '${baseName}'.`);
         slideTextContent.innerHTML =
@@ -254,7 +253,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const slidesFile = `${id}.json`;
 
     try {
-      const response = await fetch(`/json/${slidesFile}`);
+      const response = await fetch(`json/${slidesFile}`);
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
 
       const rawData = await response.json();
