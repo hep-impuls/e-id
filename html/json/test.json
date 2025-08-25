@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": 0.0,
+    "content": "<h1>Willkommen!</h1><p>Dies ist der erste Slide. Die Präsentation beginnt jetzt.</p>"
+  },
+  {
+    "timestamp": 5.5,
+    "content": "<h2>Thema 1</h2><p>Hier sprechen wir über das erste wichtige Thema.</p>"
+  },
+  {
+    "timestamp": 12.0,
+    "content": "<h2>Thema 2</h2><p>Jetzt geht es weiter mit dem zweiten Punkt.</p>"
+  },
+  {
+    "timestamp": 18.2,
+    "content": "<h3>Zusammenfassung</h3><p>Vielen Dank für Ihre Aufmerksamkeit!</p>"
+  }
+]
