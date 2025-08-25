@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const slide = slidesData[slideIndex];
     const id = getIdFromUrl();
-    const imagePath = `../images/${id}/${slide.index + 1}.png`;
+    const imagePath = `images/${id}/${slide.index + 1}.png`;
 
     slideImageContainer.innerHTML =
       `<img src="${imagePath}" alt="${escapeHTML(slide.concept)}"
@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', () => {
     a.addEventListener('error', tryNext);
     a.addEventListener('canplay', () => a.removeEventListener('error', tryNext), { once: true });
 
-    a.src = `/audio/${baseName}${exts[i]}`;
+    a.src = `audio/${baseName}${exts[i]}`;
     a.load();
   }
 
