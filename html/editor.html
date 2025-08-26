@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JSON Slide Editor</title>
+    <link rel="stylesheet" href="editor.css" />
+</head>
+<body>
+    <div id="editor-container">
+        <h1>JSON Slide Editor</h1>
+        <div class="file-selector-container">
+            <label for="json-file-selector">Select a JSON file to edit:</label>
+            <select id="json-file-selector">
+                <option value="">--Please choose a file--</option>
+            </select>
+        </div>
+        <div id="slides-editor"></div>
+        <button id="save-button" style="display: none;">Save Changes</button>
+    </div>
+    <script src="editor.js"></script>
+</body>
+</html>

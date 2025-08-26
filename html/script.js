@@ -38,6 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Markdown (**bold**, *italic*) → HTML with classes (colors in CSS)
   function formatMarkdownText(text) {
     let t = escapeHTML(text ?? '');
+    t = t.replace(/\n/g, '<br>'); // Add this line to convert newlines to line breaks
     t = t.replace(/\*\*(.+?)\*\*/g, '<strong class="bold-text">$1</strong>'); // **bold**
     t = t.replace(/(^|[\s(])\*(.+?)\*(?=[\s).,!?:;]|$)/g, '$1<em class="italic-text">$2</em>'); // *italic*
     return t;

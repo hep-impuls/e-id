@@ -3,56 +3,56 @@
   "entries": [
     {
       "concept": "Thumbnail",
-      "explanation": "Eine Gegenüberstellung der Sicherheitsversprechen der E-ID-Befürworter und der Bedenken der Gegner. Im Zentrum stehen der Schutz persönlicher Daten, die Gefahr von Hackerangriffen und die technische Umsetzung der Sicherheitsarchitektur.",
-      "slide_content": "Title: 'E-ID: Wie sicher sind unsere Daten wirklich?'\n- Das Versprechen: Staatliche Kontrolle und modernste Technik\n- Die Sorge: Schaffung eines zentralen Ziels für Hacker\n- Technische Debatten: Dezentralisierung vs. Systemschwachstellen",
+      "explanation": "Eine Gegenüberstellung der Sicherheitsversprechen der E-ID-Befürworter und der Bedenken der Gegner.",
+      "slide_content": "Title: 'E-ID: Wie sicher sind unsere Daten wirklich?'\n- Das Versprechen: Staatliche Kontrolle und modernste Technik\n- Die Sorge: Schaffung eines zentralen Ziels für Hacker",
       "timestamp": "00_00"
     },
     {
       "concept": "Staat als Sicherheitsgarant",
-      "explanation": "Die Befürworter argumentieren, dass die **staatliche Kontrolle** über die Infrastruktur der E-ID der zentrale Garant für **Datenschutz** und Privatsphäre ist. Dies sei die wichtigste Lehre aus dem gescheiterten Versuch von 2021.",
+      "explanation": "Die Befürworter argumentieren, dass die **staatliche Kontrolle** über die Infrastruktur der E-ID der zentrale Garant für **Datenschutz** und Privatsphäre ist.",
       "slide_content": "Title: 'Das Kernversprechen: Sicherheit durch den Staat'\n- Der Staat betreibt die grundlegende Infrastruktur\n- Dies soll den Schutz der Privatsphäre garantieren\n- Selbstbestimmter Umgang mit den eigenen Daten wird in den Vordergrund gestellt",
       "timestamp": "00_18"
     },
     {
       "concept": "Technische Schutzmassnahmen",
-      "explanation": "Zur technischen Absicherung werden die **dezentrale Datenspeicherung** und das Prinzip der **Datensparsamkeit** hervorgehoben. Diese Massnahmen sollen das Missbrauchsrisiko minimieren und sicherstellen, dass nur notwendige Informationen geteilt werden.",
+      "explanation": "Die **dezentrale Datenspeicherung** und das Prinzip der **Datensparsamkeit** hervorgehoben sollen das Missbrauchsrisiko minimieren und sicherstellen, dass nur notwendige Informationen geteilt werden.",
       "slide_content": "Title: 'Die technische Architektur des Vertrauens'\n- Dezentrale Speicherung: Daten liegen nicht an einem einzigen, zentralen Ort\n- Datensparsamkeit: Es werden immer nur die minimal erforderlichen Daten übermittelt",
       "timestamp": "00:49"
     },
     {
       "concept": "Self-Sovereign Identity (SSI)",
-      "explanation": "Das Konzept der **Self-Sovereign Identity** soll den Nutzern die **maximale Kontrolle** über ihre eigenen Daten geben. Sie entscheiden selbst, welche Informationen sie wem und zu welchem Zweck freigeben.",
-      "slide_content": "Title: 'SSI: Du bist der Chef deiner Daten'\n- Prinzip: Die Hoheit über die digitale Identität liegt beim Nutzer\n- Nutzer entscheidet aktiv über jede einzelne Datenfreigabe\n- Ziel: Mehr Autonomie und Selbstbestimmung im digitalen Raum",
+      "explanation": "Das Konzept der **Self-Sovereign Identity** soll den Nutzern die **maximale Kontrolle** über ihre eigenen Daten geben.",
+      "slide_content": "Title: 'SSI: Du bist der Chef deiner Daten'\n- Prinzip: Die Hoheit über die digitale Identität liegt beim Nutzer\n- Nutzer entscheidet aktiv über jede einzelne Datenfreigabe",
       "timestamp": "01:20"
     },
     {
       "concept": "Risiko von Hackerangriffen",
-      "explanation": "Die Gegner warnen, dass die E-ID-Infrastruktur ein **attraktives Ziel** für **Hackerangriffe** schafft, wie vergangene Angriffe auf Bundesstellen gezeigt haben. Eine zentrale Identitätslösung erhöhe das Risiko eines grossflächigen Datenklaus massiv.",
-      "slide_content": "Title: 'Die Gefahr: Ein Honigtopf für Hacker?'\n- Argument: Eine zentrale Infrastruktur bündelt sensible Daten und wird zum Hauptziel für Angreifer\n- Verweis auf vergangene Hacks (z.B. Xplain, Convexis)\n- Sorge: Grosse Datenmengen bei privaten Anbietern der E-ID erhöhen das Risiko zusätzlich",
+      "explanation": "Die Gegner warnen, dass die E-ID-Infrastruktur ein **attraktives Ziel** für **Hackerangriffe** schafft, wie vergangene Angriffe auf Bundesstellen gezeigt haben.",
+      "slide_content": "Title: 'Die Gefahr: Ein Honigtopf für Hacker?'\n- Argument: Eine zentrale Infrastruktur bündelt sensible Daten und wird zum Hauptziel für Angreifer\n- Grosse Datenmengen bei privaten Anbietern der E-ID erhöhen das Risiko zusätzlich",
       "timestamp": "02:40"
     },
     {
       "concept": "Technische Schwachstelle: Videoidentifikation",
-      "explanation": "Experten kritisieren das geplante **Videoidentifikationsverfahren** als bekannte **technische Schwachstelle**. Kriminelle könnten diese Methode ausnutzen, um sich falsche digitale Identitäten zu erschleichen.",
+      "explanation": "Experten kritisieren das geplante **Videoidentifikationsverfahren** als bekannte **technische Schwachstelle**.",
       "slide_content": "Title: 'Kritikpunkt: Die unsichere Video-Identifikation'\n- Verfahren: Identitätsprüfung per Videoanruf\n- Kritik (z.B. vom Chaos Computer Club): Methode ist anfällig für Betrug\n- Risiko: Erschleichung von falschen, aber staatlich beglaubigten E-IDs",
       "timestamp": "03:15"
     },
     {
       "concept": "Mangelnde Transparenz (Open Source)",
-      "explanation": "Die Gegner bemängeln, dass es keine Garantie für vollständiges **Open Source** gibt, da Teile des Quellcodes geheim bleiben könnten. Dies widerspricht dem modernen Sicherheitsprinzip der **Sicherheit durch Offenheit**.",
+      "explanation": "Die Gegner bemängeln, dass es keine Garantie für vollständiges **Open Source** gibt, da Teile des Quellcodes geheim bleiben könnten.",
       "slide_content": "Title: 'Intransparenz: Keine Garantie für Open Source'\n- Versprechen: Offenlegung des Quellcodes\n- Kritik: Keine Garantie, dass der Code zu 100% öffentlich ist\n- Modernes Sicherheitsprinzip: Nur durch vollständige Transparenz können Fehler von der Community gefunden werden ('Sicherheit durch Offenheit')",
       "timestamp": "03:41"
     },
     {
       "concept": "Fehlende Unverlinkbarkeit der Daten",
-      "explanation": "Es wird bezweifelt, dass die gesetzlichen Grundlagen die **Unverlinkbarkeit** von Daten ausreichend garantieren. Es besteht die Sorge, dass durch die Verknüpfung von Logins umfassende **Bewegungs- und Nutzerprofile** erstellt werden könnten.",
-      "slide_content": "Title: 'Gefahr von Nutzerprofilen: Ist die Unverlinkbarkeit sicher?'\n- Ziel der Unverlinkbarkeit: Verhindern, dass nachvollziehbar ist, wo die E-ID überall genutzt wird\n- Sorge der Gegner: Gesetzliche Garantien sind zu schwach\n- Risiko: Erstellung von umfassenden Nutzer- und Bewegungsprofilen durch das Zusammenführen von Datenpunkten",
+      "explanation": "Es besteht die Sorge, dass durch die Verknüpfung von Logins umfassende **Bewegungs- und Nutzerprofile** erstellt werden könnten.",
+      "slide_content": "Title: 'Gefahr von Nutzerprofilen: Ist die Unverlinkbarkeit sicher?'\n- Ziel der Unverlinkbarkeit: Verhindern, dass nachvollziehbar ist, wo die E-ID überall genutzt wird\n- Sorge der Gegner: Gesetzliche Garantien sind zu schwach",
       "timestamp": "04:00"
     },
     {
       "concept": "Ungeklärte Haftungsfrage",
       "explanation": "Die Gegner kritisieren, dass die **Haftungsfrage** bei Missbrauch der E-ID unklar geregelt ist. Im Schadensfall bleibe das **finanzielle Risiko** am Ende bei den betroffenen Bürgerinnen und Bürgern hängen.",
-      "slide_content": "Title: 'Wer haftet bei Missbrauch?'\n- Problem: Die Regelung der Haftung im Gesetz ist unklar\n- Szenario: Deine E-ID wird missbraucht und es entsteht ein finanzieller Schaden\n- Kritik: Das Risiko wird auf die einzelnen Nutzer abgewälzt",
+      "slide_content": "Title: 'Wer haftet bei Missbrauch?'\n- Szenario: Deine E-ID wird missbraucht und es entsteht ein finanzieller Schaden\n- Kritik: Das Risiko wird auf die einzelnen Nutzer abgewälzt",
       "timestamp": "04:36"
     }
   ]

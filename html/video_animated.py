@@ -10,7 +10,7 @@ Fixes:
 - RGBA (callout/text) handled via explicit mask clips (version-friendly).
 
 Usage:
-  python video_animated.py --id test4 --root . --out out.mp4 --fps 15
+  python video_animated.py --id test2 --root . --out e_id_1.mp4 --fps 15
 
 Requires:
   pip install moviepy pillow requests
@@ -159,7 +159,13 @@ def layout_right_column(draw, iw, ih, explanation, raw_lines, base_size):
         lh_expl = int(expl_size * 1.3) if hasattr(f_expl["normal"], "size") else 24
         lh_txt  = int(lines_size * 1.25) if hasattr(f_txt["normal"], "size") else 20
 
-        expl_wrapped = wrap_rich(draw, tokenize_md(explanation or ""), f_expl, iw - 20)
+        # NEW CODE TO HANDLE LINE BREAKS
+        explanation_parts = (explanation or "").split('\n')
+        expl_wrapped = []
+        for part in explanation_parts:
+            runs = tokenize_md(part)
+            wrapped_lines = wrap_rich(draw, runs, f_expl, iw - 20)
+            expl_wrapped.extend(wrapped_lines)
         expl_h = lh_expl * max(1, len(expl_wrapped)) + 16
 
         blocks, text_h = [], 0

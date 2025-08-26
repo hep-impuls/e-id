@@ -3,62 +3,62 @@
   "entries": [
     {
       "concept": "Thumbnail",
-      "explanation": "Eine Abwägung der gesellschaftlichen Visionen, die mit der E-ID verbunden sind. Es geht um die zentrale Frage, ob der versprochene Fortschritt die Risiken für Freiheit und Privatsphäre überwiegt.",
+      "explanation": "Eine Abwägung der gesellschaftlichen Visionen, die mit der E-ID verbunden sind.",
       "slide_content": "Title: 'Digitale Zukunft der Schweiz: Fortschritt oder Überwachung?'\n- Vision der Befürworter: Effizienz, Modernisierung und digitale Souveränität\n- Vision der Gegner: Gefahr der Massenüberwachung und Aushöhlung der Demokratie",
       "timestamp": "00_00"
     },
     {
       "concept": "Gesellschaftliche Vision der Befürworter",
-      "explanation": "Die Befürworter sehen die E-ID als Schlüssel zu einem **einfacheren Alltag** und einer **modernisierten Schweiz**. Sie soll die Digitalisierung vorantreiben und den Wirtschaftsstandort stärken.",
+      "explanation": "Die Befürworter sehen die E-ID als Schlüssel zu einem **einfacheren Alltag** und einer **modernisierten Schweiz**.",
       "slide_content": "Title: 'Vision 1: Eine moderne und effiziente Schweiz'\n- Einfacherer Alltag durch leichten Zugang zu digitalen Diensten\n- Stärkung des Wirtschaftsstandorts durch digitale Prozesse\n- Modernisierung der Verwaltung und Gesellschaft",
       "timestamp": "00:17"
     },
     {
       "concept": "Digitale Souveränität und Pionierrolle",
-      "explanation": "Die Schweiz soll durch ihren einzigartigen Ansatz (SSI) eine **Pionierrolle** einnehmen und ihre **digitale Souveränität** stärken. Dies bedeutet, den digitalen Raum aktiv zu gestalten, anstatt nur auf Entwicklungen zu reagieren.",
+      "explanation": "Die Schweiz soll durch ihren einzigartigen Ansatz (SSI) eine **Pionierrolle** einnehmen und ihre **digitale Souveränität** stärken.",
       "slide_content": "Title: 'Digitale Souveränität: Die Schweiz als Vorreiterin'\n- Pionierrolle durch den SSI-Ansatz (Nutzerkontrolle)\n- Stärkung der digitalen Selbstbestimmung für Bürger und Staat\n- Aktive Gestaltung der digitalen Zukunft",
       "timestamp": "00:55"
     },
     {
       "concept": "Gesellschaftliche Vision der Gegner",
-      "explanation": "Die Gegner warnen vor einer **umfassenden Massenüberwachung** durch Staat und private Firmen. Sie sehen die E-ID als einen Baustein für eine **profit-orientierte Überwachungsökonomie**.",
-      "slide_content": "Title: 'Vision 2: Die Gefahr der Überwachungsgesellschaft'\n- Grösste Angst: Schaffung einer Infrastruktur für Massenüberwachung\n- Profit-orientierte Überwachungsökonomie wird gefördert\n- Bedrohung für die Privatsphäre und individuelle Freiheit",
+      "explanation": "Die Gegner warnen vor einer **umfassenden Massenüberwachung** durch Staat und private Firmen. ",
+      "slide_content": "Title: 'Vision 2: Die Gefahr der Überwachungsgesellschaft'\n- Grösste Angst: Schaffung einer Infrastruktur für Massenüberwachung\n- Profit-orientierte **Überwachungsökonomie** wird gefördert\n- Bedrohung für die Privatsphäre und individuelle Freiheit",
       "timestamp": "01:45"
     },
     {
       "concept": "Gefahr der demokratischen Manipulation",
-      "explanation": "Es besteht die Sorge, dass die gesammelten Daten für **politische Manipulation** und die **Polarisierung** der Gesellschaft missbraucht werden könnten. Das warnende Beispiel **Cambridge Analytica** wird hier als Referenz genannt.",
-      "slide_content": "Title: 'Risiko: Untergrabung der Demokratie'\n- Gesammelte Verhaltensdaten können für Manipulation genutzt werden\n- Gefahr der gezielten Spaltung und Polarisierung der Gesellschaft",
+      "explanation": "Es besteht die Sorge, dass die gesammelten Daten für **politische Manipulation** und die **Polarisierung** der Gesellschaft missbraucht werden könnten. ",
+      "slide_content": "Title: 'Risiko: Untergrabung der Demokratie'\n- Gesammelte Verhaltensdaten können für Manipulation genutzt werden\n- Gefahr der gezielten Spaltung und Polarisierung der Gesellschaft\n- **Cambridge Analytica**-Skandal.",
       "timestamp": "02:02"
     },
     {
       "concept": "Algorithmen als Normgeber",
-      "explanation": "Kritiker befürchten, dass Algorithmen definieren, was als **'normales' Verhalten** gilt. Wer von dieser Norm abweicht, könnte systematisch **benachteiligt oder diskriminiert** werden.",
-      "slide_content": "Title: 'Die Macht der Algorithmen: Wer definiert die Norm?'\n- Algorithmen könnten 'normales' Verhalten festlegen\n- Abweichungen könnten zu Benachteiligung führen (z.B. bei Versicherungen, Krediten)\n- Gefahr der Schaffung einer 'gläsernen' Konformitätsgesellschaft",
+      "explanation": "Kritiker befürchten, dass Algorithmen definieren, was als **'normales' Verhalten** gilt.",
+      "slide_content": "Title: 'Die Macht der Algorithmen: Wer definiert die Norm?'\n- Algorithmen könnten 'normales' Verhalten festlegen\n- Abweichungen könnten zu Benachteiligung führen (z.B. bei Versicherungen, Krediten)",
       "timestamp": "02:24"
     },
     {
       "concept": "Risiko eines Sozialkreditsystems",
       "explanation": "Die extremste Befürchtung ist, dass die technische Infrastruktur der E-ID für ein **Sozialkreditsystem** missbraucht werden könnte. Obwohl nicht direkt geplant, wird die Schaffung der **technischen Möglichkeit** als grosses Risiko gesehen.",
-      "slide_content": "Title: 'Dystopie: Der Weg zum Sozialkreditsystem?'\n- Die E-ID schafft die technische Grundlage für Überwachungssysteme\n- Auch wenn nicht beabsichtigt, könnte die Infrastruktur später missbraucht werden\n- Verweis auf Diskussionen und Pilotprojekte in anderen Ländern\n- Forderung der Gegner: Explizites Verbot solcher Systeme in der Verfassung.",
+      "slide_content": "Title: 'Dystopie: Der Weg zum Sozialkreditsystem?'\n- Die E-ID schafft die technische Grundlage für Überwachungssysteme\n- Forderung der Gegner: Explizites Verbot solcher Systeme in der Verfassung.",
       "timestamp": "02:33"
     },
     {
       "concept": "Alternative: Bestehende Mittel nutzen",
-      "explanation": "Die Gegner argumentieren, dass die **bestehenden Mittel** wie die physische ID und das **AGOV-Login** für Behördengänge ausreichend sind. Eine komplett neue Infrastruktur sei daher nicht notwendig.",
-      "slide_content": "Title: 'Die Alternative: Reicht das Bestehende nicht aus?'\n- Für den Alltag: Die physische ID und der Pass sind bewährt.\n- Für Online-Behördengänge: Das AGOV-Login existiert bereits.\n- Argument: Es wird ein Problem gelöst, das in der Praxis kaum existiert.",
+      "explanation": "Die Gegner argumentieren, dass die **bestehenden Mittel** wie die physische ID und das **AGOV-Login** für Behördengänge ausreichend sind. ",
+      "slide_content": "Title: 'Die Alternative: Reicht das Bestehende nicht aus?'\n- Argument: Es wird ein Problem gelöst, das in der Praxis kaum existiert.",
       "timestamp": "03:28"
     },
     {
-      "concept": "Alternative: \"Privacy Turn\"",
-      "explanation": "Anstelle eines Digitalisierungsschubs fordern die Gegner einen **\"Privacy Turn\"**, also eine bewusste politische Entscheidung für **mehr Datenschutz**. Kommerzielle Dateninteressen sollen dabei stärker eingeschränkt werden.",
+      "concept": "Alternative: ",
+      "explanation": "Anstelle eines Digitalisierungsschubs fordern die Gegner einen **\"Privacy Turn\"**, also eine bewusste politische Entscheidung für **mehr Datenschutz**.",
       "slide_content": "Title: 'Gegenvision: Der \"Privacy Turn\"'\n- Fokus auf Stärkung des Datenschutzes statt auf Datennutzung\n- Politische Priorität: Schutz der Privatsphäre vor kommerziellen Interessen\n- Einschränkung der Datensammelwut von Unternehmen\n- Grundsatz: Das Recht auf ein Offline-Leben muss gestärkt werden.",
       "timestamp": "03:42"
     },
     {
       "concept": "Die zentrale Abwägungsfrage",
       "explanation": "Am Ende steht die **grundlegende Abwägung** zwischen dem Versprechen von **Bequemlichkeit** und der Gefahr für **Freiheit und Privatsphäre**. Jeder Stimmbürger muss für sich entscheiden, welches Risiko er für den potenziellen Nutzen eingehen will.",
-      "slide_content": "Title: 'Deine Entscheidung: Bequemlichkeit vs. Freiheit'\n- Pro: Mehr Effizienz, Kontrolle und eine moderne Schweiz?\n- Contra: Zu grosse Risiken für Überwachung, Manipulation und Datenschutz?\n- Die Kernfrage für die Abstimmung: Welchen Preis sind wir bereit, für digitale Effizienz zu zahlen?\n- Es geht um die Weichenstellung für die digitale Zukunft der Gesellschaft.",
+      "slide_content": "",
       "timestamp": "04:03"
     }
   ]
